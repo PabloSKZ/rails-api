@@ -1,6 +1,6 @@
 const data = {
   user: {
-    email: "test8@ok.fr",
+    email: "test9@ok.fr",
     password: "123456",
   },
 };
